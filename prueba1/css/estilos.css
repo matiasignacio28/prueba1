@@ -1,14 +1,14 @@
 
 .button{
-  transition-duration: 0.4s;
-   
-}
-
-.button:hover {
-  background-color: blueviolet; /* Green */
-  color: white;
-  font-weight: 600;
-}
+    transition-duration: 0.4s;
+     
+  }
+  
+  .button:hover {
+    background-color: blueviolet; /* Green */
+    color: white;
+    font-weight: 600;
+  }
 
 
 .button {
@@ -28,35 +28,54 @@
 
 
 .button1{
-transition-duration: 0.4s;
- 
+  transition-duration: 0.4s;
+   
 }
 
 .button1:hover {
-background-color: rgb(151, 36, 61); /* Green */
-color: white;
-font-weight: 600;
+  background-color: rgb(151, 36, 61); /* Green */
+  color: white;
+  font-weight: 600;
 }
 
 
 .button1 {
-font-family: 'League Spartan', sans-serif;
-background-color:whitesmoke;
-border: none;
-border-radius: 8px;
-color:black;
-font-weight: 600;
-padding: 10px 20px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-size: 16px;
-margin: 4px 2px;
-cursor: pointer;
+  font-family: 'League Spartan', sans-serif;
+  background-color:whitesmoke;
+  border: none;
+  border-radius: 8px;
+  color:black;
+  font-weight: 600;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 
 
 .h1 {font-family: 'League Spartan', sans-serif;
-font-weight: 300;
-color: var(--dark-x);
+  font-weight: 300;
+  color: var(--dark-x);
 }
+
+
+.p{
+  justify-content: center;
+  text-align: justify;
+}
+
+h3 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.p1{color: white;
+  text-shadow: 3px 3px 5px #000000;
+  
+  }
+
+
+  
