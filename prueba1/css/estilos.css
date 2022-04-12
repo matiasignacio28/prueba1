@@ -11,10 +11,6 @@
   }
 
 
-    
-
-
-
 .button {
     background-color:whitesmoke;
     border: none;
@@ -29,13 +25,45 @@
     margin: 4px 2px;
     cursor: pointer;
 }
+
+
 .button1{
-    transition-duration: 0.4s;
-     
-  }
-  
-  .button1:hover {
+  transition-duration: 0.4s;
    
-    color: blueviolet;
-    font-weight: 600;
-  }
+}
+
+.button1:hover {
+  background-color: rgb(151, 36, 61); /* Green */
+  color: white;
+  font-weight: 600;
+}
+
+
+.button1 {
+  background-color:whitesmoke;
+  border: none;
+  border-radius: 8px;
+  color:black;
+  font-weight: 600;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+h1 {font-family: 'League Spartan', sans-serif;
+  font-weight: 300;
+  color: var(--dark-x);
+}
+
+
+
+
+
+
+
+  
